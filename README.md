@@ -1,2 +1,5 @@
 # IMDB_AMAZON_YELP_review
-Sentiment analysis on IMDB, Amazon and Yelp websites
+Machine Learning, NLP
+Classifying text-based restaurant reviews as either Positive or Negative using NLTK
+Uses Linear Support Vector Classifier Model
+Compared on Accuracy
